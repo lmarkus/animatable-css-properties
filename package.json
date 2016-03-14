@@ -1,0 +1,32 @@
+{
+  "name": "animatable-css-properties",
+  "version": "0.0.0",
+  "description": "List of animatable CSS properties.",
+  "license": "MIT",
+  "repository": "hemanth/animatable-css-properties",
+  "author": {
+    "name": "Hemanth.HM",
+    "email": "hemanth.hm@gmail.com",
+    "url": "h3manth.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "CSS",
+    "animation",
+    "properties",
+    "list"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.11.0",
+    "xo": "^0.12.1"
+  }
+}
